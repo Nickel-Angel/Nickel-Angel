@@ -1,4 +1,8 @@
-### Hi there 👋
+### 这里是 Nickel_Angel qwq
+---
+大二 CS 在读，学校为 Hebut。
+曾经的 oier，现在的 acmer，但终究还只是一个普通的竞赛选手。（而且很菜 qaq
+欢迎到我的 qq 邮箱 <1239004072@qq.com> 交流~
 
 <!--
 **Nickel-Angel/Nickel-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

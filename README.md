@@ -1,4 +1,4 @@
-### 这里是 Nickel_Angel qwq
+### 这里是 Nickel_Angel.
 ---
 大二 CS 在读，学校为 Hebut。
 

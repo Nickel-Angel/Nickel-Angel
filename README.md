@@ -1,6 +1,6 @@
 ### 这里是 Nickel_Angel.
 ---
-大二 CS 在读，学校为 Hebut。
+大三 CS 在读，学校为 Hebut。
 
 曾经的 oier，现在的 acmer，但终究还只是一个普通的竞赛选手。（而且很菜 qaq
 

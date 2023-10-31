@@ -6,6 +6,8 @@
 
 欢迎到我的 qq 邮箱 <1239004072@qq.com> 交流~
 
+这里是我的 blog: https://www.cnblogs.com/Nickel-Angel/
+
 <!--
 **Nickel-Angel/Nickel-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

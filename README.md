@@ -6,7 +6,7 @@
 
 请使用 `she/her/她` 来指代我~
 
-欢迎到我的 qq 邮箱 <1239004072@qq.com> 交流~
+欢迎到我的 qq 邮箱 <Nickel.Windy@outlook.com> 交流~
 
 这里是我的 blog: https://www.cnblogs.com/Nickel-Angel/
 

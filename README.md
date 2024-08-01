@@ -2,11 +2,11 @@
 ---
 大三 CS 在读，学校为 Hebut。
 
-曾经的 oier 与 acmer，终究还只是一个普通的竞赛选手。（而且很菜 qaq
+曾经的 oier 与 acmer，终究还只是一个普通的竞赛选手。
 
 请使用 `she/her/她` 来指代我~
 
-欢迎到我的 qq 邮箱 <Nickel.Windy@outlook.com> 交流~
+欢迎到我的邮箱 <Nickel.Windy@outlook.com> 交流~
 
 这里是我的 blog: https://www.cnblogs.com/Nickel-Angel/
 

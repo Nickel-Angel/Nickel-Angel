@@ -1,6 +1,6 @@
 ### 这里是 Nickel_Angel.
 ---
-大三 CS 在读，学校为 Hebut。
+大四 CS 在读，学校为 Hebut。
 
 曾经的 oier 与 acmer，终究还只是一个普通的竞赛选手。
 
